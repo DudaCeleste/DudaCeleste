@@ -50,3 +50,12 @@
 </picture>
 
 </div>
+
+#
+
+<div align="center">
+  <img  height="200em" loading="lazy" style="margin-left: 60px; margin-top: 20px;"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW0xNmhyMHpnZTlmdDhkMDFwc2ZsOHhzY2ptbW53MzlpajNseWNoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oVeUzLxNPkAtxJ5IZ9/giphy.gif"/>
+ 
+**Thank you for visiting!** 💖
+  
+</div>
