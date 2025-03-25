@@ -42,3 +42,4 @@
 
 #
 
+![Snake animation](https://github.com/DudaCeleste/DudaCeleste/blob/output/github-contribution-grid-snake.svg)
