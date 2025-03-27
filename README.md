@@ -6,6 +6,9 @@
   <img  height="180em" loading="lazy" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTN1ams5NHR2bDI5bm1jNjhmZzdnY2JwYm5wZW13MnJ2OGk5OWNuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KfBjG41ojhbrSNTElK/giphy.gif"/>
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=DudaCeleste&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img  height="200em" loading="lazy" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZxZDI5YWJvaWhmNXQ0YzZjN2g0eHJqY2lnazE3NTEwbjVraTg1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JUT6d0JTsmprCSWnQe/giphy.gif"/>
+<br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DudaCeleste&layout=compact&theme=synthwave)<br>
 </div>
 
 #
@@ -33,6 +36,7 @@
   
 **🌸✧ Socials:**
   <br>
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/celestxp/)
   <a href="https://instagram.com/celestxp/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/luvmeceleste" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@celestxp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
